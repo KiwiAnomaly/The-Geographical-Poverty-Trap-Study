@@ -15,7 +15,8 @@ Systemic Fragility: Introduction of standard 2026 debt obligations (Student Loan
 
 The Homeownership Wall: At current market rates, saving for a $50,000 down payment is mathematically precluded for the Dallas median earner within **60 months**, while the Texarkana counterpart reaches this milestone in **42.8 months** with **100% certainty**.
 
-![Wealth Cloud](<img width="1019" height="545" alt="output" src="https://github.com/user-attachments/assets/88e0c73c-808d-4b60-8cd2-4634f8d6f211" />)
+<img width="1019" height="545" alt="output" src="https://github.com/user-attachments/assets/3e686066-a246-4c49-973b-b4b607065152" />
+
 
 How to Run:
 
